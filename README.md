@@ -1,1 +1,1 @@
-"# BuildGenerator" 
+BuildGenerator
