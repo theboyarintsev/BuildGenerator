@@ -1,0 +1,26 @@
+{
+  "start" :"lite-server",
+  "name": "rngbuilder",
+  "version": "1.0.0",
+  "description": "simple rng builder for d2",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theboyarintsev/BuildGenerator.git"
+  },
+  "keywords": [
+    "rng"
+  ],
+  "author": "Ilya Boyarincev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theboyarintsev/BuildGenerator/issues"
+  },
+  "homepage": "https://github.com/theboyarintsev/BuildGenerator#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
